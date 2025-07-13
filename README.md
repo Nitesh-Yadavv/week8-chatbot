@@ -4,7 +4,7 @@ This is an intelligent Q&A chatbot built using **Retrieval-Augmented Generation 
 
 
 ---
-
+Try it here[(https://week8-chatbot-4mqvqhsptw3s36xmdjgdcz.streamlit.app/)]
 ## Features
 
 - RAG-based question answering
